@@ -26,19 +26,14 @@ La aplicación permite a los usuarios ingresar una URL y obtener un resumen del 
 # Instalación
 
 Clona este repositorio en tu máquina local:
-bash
-Copy code
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
-Crea un entorno virtual (opcional pero recomendado) y actívalo:
-bash
-Copy code
+
+Crea un entorno virtual (opcional pero recomendado) 
 python -m venv env
 En Windows: env\Scripts\activate
 En macOS/Linux: source env/bin/activate
-Instala las dependencias necesarias desde el archivo 'requirements.txt':
-bash
-Copy code
+Instala las dependencias necesarias 
+desde el archivo 'requirements.txt':
+
 pip install -r requirements.txt
 Configura la clave API de OpenAI:
 Abre el archivo 'config.py' y reemplaza <TU_API_KEY> con tu clave API de OpenAI.
