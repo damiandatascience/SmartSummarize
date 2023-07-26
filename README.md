@@ -22,8 +22,8 @@ Crea un entorno virtual (opcional pero recomendado) y actívalo:
 bash
 Copy code
 python -m venv env
-# En Windows: env\Scripts\activate
-# En macOS/Linux: source env/bin/activate
+En Windows: env\Scripts\activate
+En macOS/Linux: source env/bin/activate
 Instala las dependencias necesarias desde el archivo 'requirements.txt':
 bash
 Copy code
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Configura la clave API de OpenAI:
 Abre el archivo 'config.py' y reemplaza <TU_API_KEY> con tu clave API de OpenAI.
 
-# Uso
+## Uso
 Ejecuta la aplicación con el siguiente comando:
 
 bash
@@ -39,7 +39,7 @@ Copy code
 python app.py
 La aplicación te pedirá ingresar una URL que desees resumir. Luego, utilizará Langchain para extraer el contenido de la URL y GPT de OpenAI para generar un resumen del contenido.
 
-# Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o quieres agregar nuevas características, por favor crea un issue o envía un pull request.
 
 Licencia
