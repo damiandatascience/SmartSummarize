@@ -62,5 +62,5 @@ Agradecimiento especial a OpenAI por proporcionar GPT y su documentación.
 Agradecimiento a Langchain por su valiosa funcionalidad de extracción de contenido.
 
 
-(Captura de pantalla 2023-07-26 011559.png)
+![Ejemplo de imagen](Captura de pantalla 2023-07-26 011559.png)
 
