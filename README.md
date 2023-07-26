@@ -5,13 +5,14 @@
 Este proyecto es un ejemplo de una aplicación simple que utiliza Langchain y GPT de OpenAI para resumir el contenido de una URL proporcionada por el usuario.
 
 # Requisitos
-### Antes de ejecutar esta aplicación, asegúrate de tener instalados los siguientes elementos:
+Antes de ejecutar esta aplicación, asegúrate de tener instalados los siguientes elementos:
 
-### Python (versión 3.11 +)
+Python (versión 3.11 +)
 
-### Además, necesitarás una clave API de OpenAI para utilizar GPT. Puedes obtenerla registrándote en el sitio web de OpenAI y siguiendo sus instrucciones para obtener una clave API.
+Además, necesitarás una clave API de OpenAI para utilizar GPT. Puedes obtenerla registrándote en el sitio web de OpenAI y siguiendo sus instrucciones para obtener una clave API.
 
 # Instalación
+
 Clona este repositorio en tu máquina local:
 bash
 Copy code
