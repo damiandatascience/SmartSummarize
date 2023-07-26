@@ -60,5 +60,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 Agradecimientos
 Agradecimiento especial a OpenAI por proporcionar GPT y su documentación.
 Agradecimiento a Langchain por su valiosa funcionalidad de extracción de contenido.
-Espero que este README te sea útil para compartir tu tutorial con otros desarrolladores. Recuerda personalizar la información del proyecto con los detalles relevantes a tu aplicación. ¡Buena suerte!
+
+
+![Ejemplo de imagen](ejemplo.png)
 
