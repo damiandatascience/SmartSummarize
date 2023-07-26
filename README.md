@@ -11,6 +11,18 @@ Python (versión 3.11 +)
 
 Además, necesitarás una clave API de OpenAI para utilizar GPT. Puedes obtenerla registrándote en el sitio web de OpenAI y siguiendo sus instrucciones para obtener una clave API.
 
+# Demo de la Aplicación
+Puedes probar la aplicación en vivo accediendo a la siguiente URL:
+
+https://damiandatascience-streamlit-streamlit-app-gdcp62.streamlit.app/
+
+La aplicación permite a los usuarios ingresar una URL y obtener un resumen del contenido utilizando Langchain y GPT de OpenAI.
+
+
+
+
+
+
 # Instalación
 
 Clona este repositorio en tu máquina local:
