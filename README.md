@@ -46,13 +46,12 @@ Copy code
 python app.py
 La aplicación te pedirá ingresar una URL que desees resumir. Luego, utilizará Langchain para extraer el contenido de la URL y GPT de OpenAI para generar un resumen del contenido.
 
-## Contribuciones
-¡Las contribuciones son bienvenidas! Si encuentras algún problema o quieres agregar nuevas características, por favor crea un issue o envía un pull request.
+
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
-Agradecimientos
+
 Agradecimiento especial a OpenAI por proporcionar GPT y su documentación.
 Agradecimiento a Langchain por su valiosa funcionalidad de extracción de contenido.
 
